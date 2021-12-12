@@ -7,7 +7,7 @@ location                        = "France Central"
 
 mgmt-name                       = "ckpmgmt"
 mgmt-size                       = "Standard_D3_v2"
-my-pub-ip                       = "xx.xx.xx.xx/32"
+my-pub-ip                       = "146.10.12.1/32"
 
 resource_group_name             = "rg-cpcluster"
 cluster_name                    = "cpcluster"
