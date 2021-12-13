@@ -1,8 +1,8 @@
 # Set in this file your deployment variables
-azure-client-secret             = "po17Q~JYndR~gk~UxwyLXA9xAPwo4MefDiT3k"
-azure-client-id                 = "b6cc23eb-1502-46ad-8814-2ce67918f765"
-azure-tenant                    = "8ee4a214-e139-4f2c-a515-604b2f919843"
-azure-subscription              = "2d558d9f-5637-4f76-9367-06886fdb2a61"
+azure-client-secret             = ""
+azure-client-id                 = ""
+azure-tenant                    = ""
+azure-subscription              = ""
 location                        = "France Central"
 
 mgmt-name                       = "ckpmgmt"
